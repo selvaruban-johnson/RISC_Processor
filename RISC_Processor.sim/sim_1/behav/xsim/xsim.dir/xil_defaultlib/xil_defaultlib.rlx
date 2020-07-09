@@ -1,0 +1,10 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/Vlsi/verilog-programming/RISC_Processor/RISC_Processor.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/Vlsi/verilog-programming/RISC_Processor/RISC_Processor.srcs/sources_1/new/instruction_decodr.sv,1593448409,systemVerilog,,,,instruction_decodr,,,,,,,,
+D:/projects/RISC_Processor/RISC.v,1593441463,verilog,,,D:/projects/RISC_Processor/mux.v;D:/projects/RISC_Processor/ram_16x16.v;D:/projects/RISC_Processor/alv.v,RISC,,,,,,,,
+D:/projects/RISC_Processor/alv.v,1591083753,verilog,,D:/projects/RISC_Processor/mux.v,,alv,,,,,,,,
+D:/projects/RISC_Processor/mux.v,1591083365,verilog,,D:/projects/RISC_Processor/ram_16x16.v,,mux,,,,,,,,
+D:/projects/RISC_Processor/ram_16x16.v,1591077451,verilog,,,,ram_16x16,,,,,,,,

@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../../projects/RISC_Processor/alv.v" \
+"../../../../../../../projects/RISC_Processor/mux.v" \
+"../../../../../../../projects/RISC_Processor/ram_16x16.v" \
+
+sv xil_defaultlib  \
+"../../../../RISC_Processor.srcs/sources_1/new/instruction_decodr.sv" \
+
+verilog xil_defaultlib  \
+"../../../../../../../projects/RISC_Processor/RISC.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
